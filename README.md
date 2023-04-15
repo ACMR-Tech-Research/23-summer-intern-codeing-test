@@ -13,13 +13,15 @@ To install and run the application, follow these steps:
 
 1. Clone this repository to your local machine.
 
-2. In the project directory, run npm install to install the necessary dependencies.
+2. In the project directory, create a new React.js project by running the following command in your terminal ```npx create-react-app recipe-sharing-app``` .
 
-3. Create a Firebase account and set up a new project.
+3. Change into the project directory by running ```cd recipe-sharing-app``` and run ```npm install @mui/material @emotion/react @emotion/styled firebase``` to install the necessary dependencies.
 
-4. In the Firebase console, enable email/password authentication and create a new Cloud Firestore database.
+4. Create a Firebase account and set up a new project
 
-5. Copy the Firebase configuration object from the Firebase console and paste it into a new file named ```.env.local``` in the project directory. The object should look like this:
+5. In the Firebase console, enable email/password authentication and create a new Cloud Firestore database.
+
+6. Copy the Firebase configuration object from the Firebase console and paste it into a new file named ```.env.local``` in the project directory. The object should look like this:
 
 
 ```javascript
