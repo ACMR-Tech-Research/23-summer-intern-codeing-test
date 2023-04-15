@@ -1,6 +1,6 @@
 # Recipe Sharing App
 
-This is a web application that allows users to create and share recipes. The application is built using React.js for the frontend and Firebase for user authentication, recipe storage, and recipe sharing.
+This is a web application that allows users to create and share recipes. The application is built using React.js for the frontend , MaterialUI for the UI library and Firebase for user authentication, recipe storage, and recipe sharing. 
 
 ---
 ## Very First Step
