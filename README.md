@@ -1,6 +1,6 @@
 # Recipe Sharing App
 
-This is a web application that allows users to create and share recipes. The application is built using React.js for the frontend , MaterialUI for the UI library and Firebase for user authentication, recipe storage, and recipe sharing. 
+This is a web application that allows users to create and share recipes. The application is built using React.js for the frontend , MaterialUI as the UI library and Firebase for user authentication, recipe storage, and recipe sharing. 
 
 ---
 ## Very First Step
@@ -50,10 +50,11 @@ To complete this task, you will need to implement the following features in the 
 4. Recipe details: Users should be able to view the details of a specific recipe, and recipe's name, and recipe details.
 
 
-### Sicne our product is close to this UI. Make sure your work following the image below to finish the task
+### Sicne our end product is close to this UI. Make sure your work follows the image below to finish the task.
+
 \
 \
 ![UI Demo](ui.png "UI Demo")
 
 
-After you completed the task, please commit and push to your Github and send us the repository url within 1 week.
+After you have completed the task, please commit and push to your Github and send us the repository url within 1 week.
